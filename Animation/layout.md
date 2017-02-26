@@ -33,3 +33,8 @@
 > Interesting UICollectionView layouts and transitions
 
 ![](https://github.com/ParsifalC/CPCollectionViewKit/raw/master/Demos/CPCollectionViewCardLayoutDemo/CardLayoutRotateinout.gif?raw=true)
+
+[Ramotion/expanding-collection](https://github.com/Ramotion/expanding-collection)
+-- 
+>Awesome Collection view animation
+![](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
